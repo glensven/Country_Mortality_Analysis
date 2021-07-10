@@ -1,1 +1,1 @@
-# Visualization Code for Mortality.org
+# Covid Data Visualization Dashboard
