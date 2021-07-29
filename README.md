@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Covid Data Visualization Dashboard
-=======
+
 # Visualization Code for Country Mortality and COVID-19
 ![Dashboard](Resources/Main_Panel.jpg)
 # Contributors
